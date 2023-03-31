@@ -626,7 +626,7 @@ margin-top: 49px;
     }
 
     .all{
-        justify-content: space-around;
+        gap: 35px;
     }
 
     .h_bottom{
