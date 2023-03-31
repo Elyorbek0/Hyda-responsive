@@ -645,6 +645,10 @@ margin-top: 49px;
         display: none;
     }
 
+    .world{
+        width: 300px;
+    }
+
     .reddish{
         display: block;
     }
